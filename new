@@ -1,1 +1,14 @@
-
+<html>
+<head>
+<meta charcet="utf-8">
+<head>
+<title> тег В </title>
+</head>
+<body> 
+<button style="background:pink;color:white;">кнопка</button>
+<text style="background:green;color:red;"> Какой-то текст </text>
+<img
+style="width:50px;"
+src="https://pruffme.com/assets/css/images/webinar/properties/logos/avatar_6.png">; <a href="google.com"> переходим на гугл </a> 
+</body>
+</html>
